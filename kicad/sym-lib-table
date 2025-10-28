@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Qwertek")(type "KiCad")(uri "${KIPRJMOD}/../../libraries/QwerteKicad-Libraries/symbols/Qwertek.kicad_sym")(options "")(descr ""))
+  (lib (name "ADCMP551BRQZ")(type "KiCad")(uri "/home/tinkerman/Local-Projects/InfiniLink/libraries/ADCMP551BRQZ/ADCMP551BRQZ.kicad_sym")(options "")(descr ""))
+)
