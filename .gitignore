@@ -1,0 +1,24 @@
+# Generic backup files
+*~
+\#*
+.\#*
+
+# KiCad backup files
+*.bak
+*.bck
+*-bak
+*-bck
+*-backups
+*.zip
+
+# KiCad generated files
+*.erc
+*-erc
+*.net
+*-net
+*-cache
+*-cache.lib
+*-rescue
+*-rescue.lib
+*.lck
+*-lck
